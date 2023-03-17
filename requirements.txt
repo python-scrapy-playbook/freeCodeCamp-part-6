@@ -60,10 +60,6 @@ matplotlib-inline==0.1.6
 mccabe==0.7.0
 mistune==2.0.4
 mock==4.0.3
-mysql==0.0.3
-mysql-client==0.0.1
-mysql-connector-python==8.0.32
-mysqlclient==2.1.1
 nbclassic==0.4.8
 nbclient==0.7.2
 nbconvert==7.2.5
@@ -89,7 +85,6 @@ Protego==0.2.1
 protobuf==3.20.3
 proxyscrape==0.3.0
 psutil==5.9.4
-psycopg2==2.9.3
 ptyprocess==0.7.0
 pure-eval==0.2.2
 py==1.11.0
