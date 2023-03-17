@@ -16,14 +16,18 @@ Then to activate it so that any new modules that are installed are installed int
 `source venv/bin/activate`
 
 
+## Step 2 - Clone the project
+Clone the project from github:
+`git clone https://github.com/python-scrapy-playbook/freeCodeCamp-part-6.git`
 
-## Step 2 - Install the required python modules
+
+## Step 3 - Install the required python modules
 To install the required modules for this python project to run you need to install the required python modules using the following command:
 
 `pip install -r requirements.txt`
 
 
-## Step 3 - Run the project/ Follow the course
+## Step 4 - Run the project/ Follow the course
 Once the required python modules are installed you should be able to view/run the Python Scrapy Spider with the following command (from within the project folder):
 
 Cd into the project spiders: `cd bookscraper`
