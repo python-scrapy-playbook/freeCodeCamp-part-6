@@ -1,5 +1,8 @@
+projects:
+  default: 1
+
 requirements:
   file: requirements.txt
 
 stacks:
-  default: scrapy:2.8
+  default: branch-2.3
