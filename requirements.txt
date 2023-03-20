@@ -9,10 +9,8 @@ Automat==22.10.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==4.1.0
-botocore==1.27.57
 certifi==2022.12.7
 cffi==1.15.1
-charset-normalizer==3.0.1
 colorama==0.4.4
 constantly==15.1.0
 contourpy==1.0.7
@@ -24,7 +22,6 @@ debugpy==1.6.4
 decorator==5.1.1
 defusedxml==0.7.1
 distlib==0.3.6
-docutils==0.18.1
 entrypoints==0.4
 exceptiongroup==1.0.4
 executing==1.2.0
@@ -46,7 +43,7 @@ jedi==0.18.2
 Jinja2==3.1.2
 jmespath==1.0.1
 json5==0.9.6
-jsonschema==4.17.3
+jsonschema==3.2.0
 jupyter-server==1.23.3
 jupyter_client==7.4.7
 jupyter_core==5.1.0
