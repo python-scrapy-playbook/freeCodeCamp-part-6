@@ -1,2 +1,2 @@
 stacks:
-  default: scrapy:2.7
+  default: scrapy:2.7-latest
