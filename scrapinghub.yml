@@ -1,8 +1,1 @@
-projects:
-  default: 1
-
-requirements:
-  file: requirements.txt
-
-stacks:
-  default: ranch-1.8-py3
+project: 643154
