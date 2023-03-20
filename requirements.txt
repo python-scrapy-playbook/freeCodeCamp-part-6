@@ -14,7 +14,6 @@ cffi==1.15.1
 charset-normalizer==3.0.1
 colorama==0.4.4
 constantly==15.1.0
-contourpy==1.0.7
 coverage==6.5.0
 cryptography==39.0.0
 cssselect==1.2.0
