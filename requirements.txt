@@ -107,7 +107,7 @@ requests==2.28.2
 requests-file==1.5.1
 requests-toolbelt==0.9.1
 rfc3986==2.0.0
-Scrapy==2.7.1
+Scrapy==2.8
 scrapy-proxy-pool==0.1.9
 scrapy-redis==0.7.3
 scrapy-rotating-proxies==0.6.2
