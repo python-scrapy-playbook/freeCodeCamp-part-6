@@ -5,4 +5,4 @@ requirements:
   file: requirements.txt
 
 stacks:
-  default: branch-2.3
+  default: ranch-1.8-py3
